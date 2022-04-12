@@ -1,6 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehmet <br /> <br /> I'm a Full Stack Developer.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehmet <br /> I'm a Full Stack Developer.</h1>
 
 ## Connect with me
 <p align="left">
@@ -29,8 +27,9 @@
     <br />
     <a href="https://github.com/Mehmet-Alemdar/github-readme-stats"><img alt="Mehmet-Alemdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Alemdar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />     </a>
     <br />
-    <a href="https://github.com/Mehmet-Alemdar/github-readme-activity-graph"><img alt="Mehmet-Alemdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mehmet-Alemdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
-    
+
+![snake gif](https://github.com/Mehmet-Alemdar/Mehmet-Alemdar/blob/output/github-contribution-grid-snake.gif)
+
     
 
 <!---
