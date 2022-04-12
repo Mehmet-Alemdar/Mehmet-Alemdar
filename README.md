@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehmet <br /> I'm a Full Stack Developer.</h1>
 
-## Connect with me
+## Connect with me 
 <p align="left">
 <a href = "https://www.linkedin.com/in/mehmet-alemdar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mehmetalemdarr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
