@@ -19,6 +19,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>       </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/> </a>
     <a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_ejs_icon_130626.png"/> </a>
     <a href="https://pugjs.org/api/getting-started.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pug.png"/> </a>
     <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/jquery_plain_wordmark_logo_icon_146445.png"/> </a>
