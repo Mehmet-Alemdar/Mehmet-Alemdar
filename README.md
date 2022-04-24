@@ -11,15 +11,16 @@
 <p align="left"> 
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://vuejs.org//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
+    <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png""/> </a>
+    <a href="https://www.npmjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>       </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/> </a>
+    <a href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/> </a>
     <a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_ejs_icon_130626.png"/> </a>
     <a href="https://pugjs.org/api/getting-started.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pug.png"/> </a>
     <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/jquery_plain_wordmark_logo_icon_146445.png"/> </a>
