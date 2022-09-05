@@ -33,14 +33,9 @@
 </p>
 
 ## My Github Stats
-<a  href="https://github.com/Mehmet-Alemdar/github-readme-stats"><img alt="Mehmet-Alemdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mehmet-Alemdar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-
 <a href="https://github.com/Mehmet-Alemdar/github-readme-stats"><img alt="Mehmet-Alemdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Alemdar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a>
 
-
-![snake gif](https://github.com/Mehmet-Alemdar/Mehmet-Alemdar/blob/output/github-contribution-grid-snake.gif)
-
-    
+<a  href="https://github.com/Mehmet-Alemdar/github-readme-stats"><img alt="Mehmet-Alemdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mehmet-Alemdar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
 <!---
 Mehmet-Alemdar/Mehmet-Alemdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
