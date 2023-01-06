@@ -35,6 +35,8 @@
 ## My Github Stats
 <a href="https://github.com/Mehmet-Alemdar/github-readme-stats"><img alt="Mehmet-Alemdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Alemdar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a>
 
+<a href="https://app.daily.dev/mehmetalemdarr"><img src="https://api.daily.dev/devcards/105d1bd819144395b20af858075378a5.png?r=d53" width="250" alt="mehmet alemdar's Dev Card"/></a>
+
 <a  href="https://github.com/Mehmet-Alemdar/github-readme-stats"><img alt="Mehmet-Alemdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mehmet-Alemdar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
 <!---
