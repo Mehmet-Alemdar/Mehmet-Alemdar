@@ -37,9 +37,6 @@
   <a href="https://www.linkedin.com/in/mehmet-alemdar/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/mehmetalemdarr/" target="_blank" rel="noopener noreferrer" title="Instagram Profile">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 ### 📝 Latest Articles
